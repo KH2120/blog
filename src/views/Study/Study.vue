@@ -1,0 +1,12 @@
+<template>
+  <div>Study</div>
+</template>
+
+<script>
+export default {
+  name: "Study",
+};
+</script>
+
+<style>
+</style>
